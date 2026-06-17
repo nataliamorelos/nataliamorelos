@@ -5,7 +5,7 @@
 
 Currently: Operations and Visuals @ Alo | Previously: Prompt Engineer @ Scale Labs
 
-📍 Boston, MA | ✉️ Contact me [here](nataliaxmorelos@gmail.com) |🔗 [LinkedIn](https://www.linkedin.com/in/nataliamorelos/)
+📍 Boston, MA | ✉️ Contact me [here](mailto:nataliaxmorelos@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nataliamorelos/)
 
 ---
 
@@ -17,7 +17,7 @@ This repository contains solo projects completed throughout and post my undergra
 
 ## 📊 Featured Projects
 
-###🧘‍♀️ [Alo Yoga Color Analysis and Prediction](https://github.com/nataliamorelos/Alo-Yoga-Color-Analysis/blob/main/README.md)
+### 🧘‍♀️ [Alo Yoga Color Analysis and Prediction](https://github.com/nataliamorelos/Alo-Yoga-Color-Analysis/blob/main/README.md)
 **Sales data analytics** used to determine if color is the primary driver in engagment and sales, if so, which are best for business, when?
 
 **Tech Stack**: `R`, `Python`. `Web Scraping`. `Reddit Sentiment Analysis`. `Google Trends API`
