@@ -1,6 +1,23 @@
-# Natalia Morelos's Portfolio
+# Natalia Morelos Portfolio 👩🏻‍💻
 
-Hello, and thanks for stopping by! This repository contains examples of SQL I've written for solo projects and while working through SQL, Python, and other data analytics courses. Below are a few highlighted projects, including data visualizations I created using Tableau. Feel free to take a look around and [reach out](https://www.linkedin.com/in/nataliamorelos/) if you have any feedback or questions.
+
+**BA Marketing and Information Systems & Decision Sciences @ California State University, Fullerton** 
+
+Currently: Operations and Visuals @ Alo | Previously: Prompt Engineer @ Scale Labs
+
+📍 Boston, MA | ✉️ Contact me [here](nataliaxmorelos@gmail.com) |🔗 [LinkedIn](https://www.linkedin.com/in/nataliamorelos/)
+
+---
+
+## 💼 What I Do
+
+This repository contains solo projects completed throughout and post my undergrad. I bridge marketing and data science to build scalable pipelines and extract insights, turning information into strategy.
+
+---
+
+## 📊 Featured Projects
+
+Below are a few highlighted projects, including data visualizations I created using Tableau or R.
 
 
 <!---
