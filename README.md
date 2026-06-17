@@ -17,7 +17,12 @@ This repository contains solo projects completed throughout and post my undergra
 
 ## 📊 Featured Projects
 
-Below are a few highlighted projects, including data visualizations I created using Tableau or R.
+###🧘‍♀️ [Alo Yoga Color Analysis and Prediction](https://github.com/nataliamorelos/Alo-Yoga-Color-Analysis/blob/main/README.md)
+**Sales data analytics** used to determine if color is the primary driver in engagment and sales, if so, which are best for business, when?
+
+**Tech Stack**: `R`, `Python`. `Web Scraping`. `Reddit Sentiment Analysis`. `Google Trends API`
+
+---
 
 
 <!---
