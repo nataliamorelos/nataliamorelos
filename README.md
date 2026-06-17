@@ -20,7 +20,7 @@ This repository contains solo projects completed throughout and post my undergra
 ### 🧘‍♀️ [Alo Yoga Color Analysis and Prediction](https://github.com/nataliamorelos/Alo-Yoga-Color-Analysis/blob/main/README.md)
 **Sales data analytics** used to determine if color is the primary driver in engagment and sales, if so, which are best for business, when?
 
-**Tech Stack**: `R`, `Python`. `Web Scraping`. `Reddit Sentiment Analysis`. `Google Trends API`
+**Tech Stack**: `R`, `Python`, `Web Scraping`, `Reddit Sentiment Analysis`, `Google Trends API`
 
 ---
 
